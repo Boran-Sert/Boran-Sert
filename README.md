@@ -1,41 +1,29 @@
-Hakkımda | About Me 
+# 👨‍💻 Merhaba! Ben Boran SERT | Hello! I'm Boran SERT
 
-TR
+### 🇹🇷 Hakkımda | About Me (TR)
+Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Kariyerimi **Yapay Zeka (AI)**, **Makine Öğrenmesi** ve **Algoritma Tasarımı** üzerine inşa ediyorum. 
 
-Merhaba !
-Ben Boran SERT, Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim.
-Şu anda öğrenme aşamasındayım ve projeler geliştirerek kendimi geliştirmeye çalışıyorum.
+Akademik teoriyi pratik mühendislik çözümlerine dönüştürmeye odaklanıyorum. Ağırlıklı olarak **Python** kullanarak büyük dil modelleriyle (LLM) çalışan ve sistem araçlarını otonom yönetebilen (tool calling) yerel yapay zeka ajanları geliştiriyorum. Bununla birlikte, **C#** ile karmaşık ağlar üzerinde (Graph Theory) ileri seviye yön bulma algoritmaları (Dijkstra, DFS, A*) tasarlıyorum. 
 
-Özellikle oyun geliştirme ve yazılım geliştirme alanlarına ilgi duyuyorum.
-Ayrıca Blender kullanarak low-poly assetler oluşturabiliyorum; bu da oyun geliştirme sürecini daha iyi anlamama yardımcı oluyor.
+Nesne Yönelimli Programlama (OOP) ve yaratıcı problem çözme pratiklerimi zinde tutmak için hobi olarak Unity, Blender (low-poly) ve Aseprite (piksel sanat) kullanarak bağımsız oyun mekanikleri tasarlamaktan keyif alıyorum. Temiz kod (clean code) prensiplerini benimseyerek veri odaklı sistemler geliştirmeye devam ediyorum.
 
-Öğrenmeye istekliyim, geri bildirime açığım ve adım adım ilerlemeye odaklanıyorum.
+### 🇬🇧 Hakkımda | About Me (EN)
+I’m a 3rd-year Information Systems Engineering student at Kocaeli University. I am building my career with a strong focus on **Artificial Intelligence (AI)**, **Machine Learning**, and **Algorithm Design**.
 
-EN
+I focus on translating academic theory into practical engineering solutions. I primarily use **Python** to develop autonomous local AI agents (LLM) capable of tool calling and system management. Additionally, I design and implement advanced pathfinding algorithms (Dijkstra, DFS, A*) on complex networks (Graph Theory) using **C#**.
 
-Hey there !
-I'm Boran SERT. I’m a 3rd-year Information Systems Engineering student at Kocaeli University.
-I’m currently in the learning phase and improving myself through hands-on projects.
+To keep my Object-Oriented Programming (OOP) and creative problem-solving skills sharp, I enjoy designing independent game mechanics using Unity, Blender (low-poly), and Aseprite (pixel art) as a hobby. I am highly motivated to build data-driven systems while adhering to clean code principles.
 
-I’m especially interested in game development and software development.
-I also create my own low-poly assets using Blender, which helps me better understand the full game development process.
+---
 
-I’m motivated to learn, open to feedback, and focused on steady improvement.
+### 🧠 İlgi Alanları | Interests
+* Artificial Intelligence & Autonomous Agents | Yapay Zeka & Otonom Ajanlar
+* Algorithm Design & Graph Theory | Algoritma Tasarımı & Graf Teorisi
+* Backend System Architecture | Arka Plan Sistem Mimarisi
+* Game Mechanics & 3D Modeling (Hobby) | Oyun Mekanikleri & 3D Modelleme (Hobi)
 
-Interests | İlgi Alanları
-
-* Game development | Oyun geliştirme
-
-* Software development | Yazılım geliştirme
-
-* Algorithms and problem solving | Algoritmalar ve problem çözme
-
-Tools & Technologies | Araçlar & Teknolojiler
-
-* C#, Java
-
-* Unity
-
-* Blender (low-poly asset creation)
-
-* Git & GitHub
+### 🛠️ Araçlar ve Teknolojiler | Tools & Technologies
+* **Programlama Dilleri:** Python, C#, Java, JavaScript, HTML/CSS
+* **Yapay Zeka & Veri:** Ollama, LLMs, NLP, Prompt Engineering
+* **Versiyon Kontrol & Mimari:** Git & GitHub, OOP, API Entegrasyonu
+* **Oyun & Tasarım (Hobi):** Unity, Blender, Aseprite
