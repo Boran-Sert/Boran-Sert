@@ -1,4 +1,4 @@
-# 👨‍💻 Merhaba! Ben Boran SERT | Hello! I'm Boran SERT
+# Merhaba! Ben Boran SERT | Hello! I'm Boran SERT
 
 ### 🇹🇷 Hakkımda | About Me (TR)
 Kocaeli Üniversitesi Bilişim Sistemleri Mühendisliği 3. sınıf öğrencisiyim. Kariyerimi **Yapay Zeka (AI)**, **Makine Öğrenmesi** ve **Algoritma Tasarımı** üzerine inşa ediyorum. 
@@ -16,13 +16,13 @@ To keep my Object-Oriented Programming (OOP) and creative problem-solving skills
 
 ---
 
-### 🧠 İlgi Alanları | Interests
+### İlgi Alanları | Interests
 * Artificial Intelligence & Autonomous Agents | Yapay Zeka & Otonom Ajanlar
 * Algorithm Design & Graph Theory | Algoritma Tasarımı & Graf Teorisi
 * Backend System Architecture | Arka Plan Sistem Mimarisi
 * Game Mechanics & 3D Modeling (Hobby) | Oyun Mekanikleri & 3D Modelleme (Hobi)
 
-### 🛠️ Araçlar ve Teknolojiler | Tools & Technologies
+### Araçlar ve Teknolojiler | Tools & Technologies
 * **Programlama Dilleri:** Python, C#, Java
 * **Yapay Zeka & Veri:** Ollama, LLMs, NLP, Prompt Engineering
 * **Versiyon Kontrol & Mimari:** Git & GitHub, OOP, API Entegrasyonu
