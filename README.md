@@ -23,7 +23,7 @@ To keep my Object-Oriented Programming (OOP) and creative problem-solving skills
 * Game Mechanics & 3D Modeling (Hobby) | Oyun Mekanikleri & 3D Modelleme (Hobi)
 
 ### 🛠️ Araçlar ve Teknolojiler | Tools & Technologies
-* **Programlama Dilleri:** Python, C#, Java, JavaScript, HTML/CSS
+* **Programlama Dilleri:** Python, C#, Java
 * **Yapay Zeka & Veri:** Ollama, LLMs, NLP, Prompt Engineering
 * **Versiyon Kontrol & Mimari:** Git & GitHub, OOP, API Entegrasyonu
 * **Oyun & Tasarım (Hobi):** Unity, Blender, Aseprite
